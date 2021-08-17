@@ -1,0 +1,45 @@
+#+title: uniks
+
+* DNS
+Currently using unbound as web2 resolver.
+
+** Knot-resolver
+Missing lua libraries, and =guix import= lacks lua support.
+   
+** Coredns
+Errors on =guix import go --recursive github.com/coredns/coredns=:
+#+begin_src scheme
+Backtrace:
+          14 (primitive-load "/home/li/.config/guix/current/bin/guix")
+In guix/ui.scm:
+   2182:7 13 (run-guix . _)
+  2145:10 12 (run-guix-command _ . _)
+In guix/scripts/import.scm:
+   120:11 11 (guix-import . _)
+In guix/scripts/import/go.scm:
+   116:20 10 (guix-import-go . _)
+In guix/import/utils.scm:
+   477:27  9 (recursive-import _ #:repo->guix-package _ #:guix-name _ #:version _ #:repo _)
+In srfi/srfi-1.scm:
+   586:17  8 (map1 (("k8s.io/klog" #f) ("k8s.io/client-go" #f) ("k8s.io/apimachinery" #f) ("k8s.io/api" #f) ("gopkg.in/DataDog/dd-trace-go.v1" #f) ("google.g…" …) …))
+In guix/import/utils.scm:
+   466:33  7 (lookup-node "k8s.io/klog" #f)
+In ice-9/exceptions.scm:
+   406:15  6 (_ _ #:version _ #:repo _)
+In ice-9/boot-9.scm:
+  1752:10  5 (with-exception-handler _ _ #:unwind? _ #:unwind-for-type _)
+In guix/import/go.scm:
+   658:11  4 (_)
+In guix/memoization.scm:
+     98:0  3 (mproc "k8s.io/klog" #:goproxy "https://proxy.golang.org" #:version #f #:pin-versions? #f)
+In unknown file:
+           2 (_ #<procedure 7fb26afbe480 at guix/memoization.scm:179:32 ()> #<procedure list _> (this is nothing))
+In guix/import/go.scm:
+    470:7  1 (go-module->guix-package _ #:goproxy _ #:version _ #:pin-versions? _)
+In ice-9/boot-9.scm:
+  1685:16  0 (raise-exception _ #:continuable? _)
+
+ice-9/boot-9.scm:1685:16: In procedure raise-exception:
+Throw to key `match-error' with args `("match" "no matching pattern" ("k8s.io/klog\n" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "git" "https://github.com/kubernetes/klog"))'.
+#+end_src 
+

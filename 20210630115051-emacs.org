@@ -1,0 +1,18 @@
+#+title: emacs
+
+[[orgit:~/git/uniks/][uniks]]
+* Notes
+** imenu
+Below is a simple example that can be used in shell mode buffers, to index environment variables assignments.
+#+begin_src elisp
+(setq imenu-generic-expression '((nil "^\\([A-Z_]+\\)=.*" 1)))
+#+end_src
+[[https://stackoverflow.com/questions/22398737/can-i-use-imenu-mode-in-buffers-which-do-not-contain-function-definitions][SO-src]]
+
+** Org
+Faster implementation: https://github.com/yantar92/org
+Krita edit: https://github.com/lepisma/org-krita
+Programmatic org-parser editing: https://github.com/ndwarshuis/org-ml
+Org to SQL: https://github.com/ndwarshuis/org-sql
+Visualize data as org (python): https://github.com/karlicoss/orger
+

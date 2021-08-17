@@ -1,0 +1,5 @@
+#+title: hob
+* Research
+** [[https://github.com/arbox/org-sync
+][org-sync]]
+Github/etc issues <-> org
