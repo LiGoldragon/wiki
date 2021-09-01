@@ -16,3 +16,7 @@ Programmatic org-parser editing: https://github.com/ndwarshuis/org-ml
 Org to SQL: https://github.com/ndwarshuis/org-sql
 Visualize data as org (python): https://github.com/karlicoss/orger
 
+*** Link Dump
+notmuch emacs UI, non-active:
+https://github.com/tjim/nevermore
+

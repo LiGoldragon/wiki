@@ -1,5 +1,13 @@
 #+title: uniks
 
+* Wayland
+** Login
+https://sr.ht/~kennylevinsen/greetd/
+** Gama-control
+https://sr.ht/~kennylevinsen/wlsunset/
+** Panel/launcher
+https://sr.ht/~kennylevinsen/wldash/
+
 * DNS
 Currently using unbound as web2 resolver.
 
