@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       946de31e-b7bf-42e0-9675-8a8bc17631ee
+:END:
 #+title: gibson
 
 * Pattern Recognition

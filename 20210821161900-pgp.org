@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       3049ad2e-3dc3-4d3b-b39f-0d0e20d27d66
+:END:
 #+title: pgp
 
 * Raw text

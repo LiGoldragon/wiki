@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       3e902748-02a5-4433-844b-427cfef6d79c
+:END:
 #+title: uniks
 
 * Wayland
@@ -50,4 +53,3 @@ In ice-9/boot-9.scm:
 ice-9/boot-9.scm:1685:16: In procedure raise-exception:
 Throw to key `match-error' with args `("match" "no matching pattern" ("k8s.io/klog\n" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "git" "https://github.com/kubernetes/klog"))'.
 #+end_src 
-

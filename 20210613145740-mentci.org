@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       42283f20-82f6-4598-8d32-e88da53b2fea
+:END:
 #+title: mentci
 
 * Org format
