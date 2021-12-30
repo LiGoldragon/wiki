@@ -3,13 +3,6 @@
 :END:
 #+title: ipsec
 
-** Debugging
-Error on xfrm device creation:
-#+begin_src
-guix system: warning: exception caught while executing 'start' on service 'neksIp':
-Throw to key `%exception' with args `("#<&invoke-error program: \"/gnu/store/px3mr22ldgmj07s2h9i4zjvp2jylga7f-iproute2-5.13.0/sbin/ip\" arguments: (\"link\" \"add\" \"neks\" \"type\" \"xfrm\" \"dev\" \"enp0s25\" \"if_id\" \"1339289882\") exit-status: 2 term-signal: #f stop-signal: #f>")'.
-#+end_src
-
 ** Keys
 Generating key pair with openssl:
 #+begin_src 

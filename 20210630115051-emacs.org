@@ -4,6 +4,7 @@
 #+title: emacs
 
 [[orgit:~/git/uniks/][uniks]]
+
 * Notes
 ** imenu
 Below is a simple example that can be used in shell mode buffers, to index environment variables assignments.

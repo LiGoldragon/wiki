@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       653e684d-0cd9-4aa2-a72f-f914d887153a
+:END:
+#+title: nix
+
+* Notes
+** derivation
+Example environment in minimal nix ~derivation~.
+Printed using emacs ~process-environment~.
+#+begin_src elisp
+'("PATH=/path-not-set"
+  "TMP=/build"
+  "NIX_BUILD_TOP=/build"
+  "SHLVL=0"
+  "TEMP=/build"
+  "NIX_ATTRS_SH_FILE=/tmp/nix-build-imaksSelectrum.drv-0/.attrs.sh"
+  "TERM=xterm-256color"
+  "NIX_LOG_FD=2"
+  "NIX_ATTRS_JSON_FILE=/tmp/nix-build-imaksSelectrum.drv-0/.attrs.json"
+  "TMPDIR=/build"
+  "NIX_STORE=/nix/store"
+  "HOME=/homeless-shelter"
+  "TEMPDIR=/build"
+  "PWD=/build"
+  "NIX_BUILD_CORES=1")
+#+end_src

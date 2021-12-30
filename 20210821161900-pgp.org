@@ -53,10 +53,10 @@ Next, you can use openpgp2ssh tool distributed in with monkeyshpere project:
 
 A few notes are necessary:
 
-* 01234567 must be fingerprint of a RSA key (or subkey)
-* gpg --export-secret-keys also accept finger print of global key (in this case, it exports all
+- 01234567 must be fingerprint of a RSA key (or subkey)
+- gpg --export-secret-keys also accept finger print of global key (in this case, it exports all
  sub-keys). However, openpgp2ssh only accept finger print of an RSA key
-* If no arguments are provided, openpgp2ssh export RSA keys it find
+- If no arguments are provided, openpgp2ssh export RSA keys it find
 
 You can now extract ssh public key using:
 
