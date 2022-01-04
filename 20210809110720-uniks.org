@@ -3,6 +3,11 @@
 :END:
 #+title: uniks
 
+* Systemd
+** Credentials
+Interesting systemd credentials-handling
+related: [[https://github.com/NixOS/nixpkgs/issues/102397][NixOS/nixpkgs/issues/102397]]
+
 * Wayland
 ** Login
 https://sr.ht/~kennylevinsen/greetd/
