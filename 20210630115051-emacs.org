@@ -19,8 +19,13 @@ Krita edit: https://github.com/lepisma/org-krita
 Programmatic org-parser editing: https://github.com/ndwarshuis/org-ml
 Org to SQL: https://github.com/ndwarshuis/org-sql
 Visualize data as org (python): https://github.com/karlicoss/orger
+https://github.com/nobiot/org-marginalia
+https://github.com/bastibe/org-journal
+https://github.com/vascoferreira25/org-mode-incremental-reading
+https://github.com/snosov1/toc-org
 
 *** Link Dump
 notmuch emacs UI, non-active:
 https://github.com/tjim/nevermore
-
+DBus:
+https://github.com/ieure/debase
