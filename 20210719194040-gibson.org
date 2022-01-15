@@ -3,9 +3,8 @@
 :END:
 #+title: William Gibson
 
-* Pattern Recognition
-** Quotes
-*** Pattern Recognition
+* Quotes
+** Pattern Recognition
 [...] a clientele consisting entirely of large, clean-shaven, short-haired,
 remarkably square-headed men in dark suits. Like some lost America, down to
 blue strata of cigarette smoke and the completely un-ironic deployment of the

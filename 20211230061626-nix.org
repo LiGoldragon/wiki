@@ -24,3 +24,6 @@ Printed using emacs ~process-environment~.
   "PWD=/build"
   "NIX_BUILD_CORES=1")
 #+end_src
+
+** Pull-requests
+[[https://github.com/NixOS/nix/pull/5497][Nixifying git submodules]]

@@ -3,8 +3,6 @@
 :END:
 #+title: emacs
 
-[[orgit:~/git/uniks/][uniks]]
-
 * Notes
 ** imenu
 Below is a simple example that can be used in shell mode buffers, to index environment variables assignments.
@@ -23,6 +21,15 @@ https://github.com/nobiot/org-marginalia
 https://github.com/bastibe/org-journal
 https://github.com/vascoferreira25/org-mode-incremental-reading
 https://github.com/snosov1/toc-org
+*** [[https://github.com/200ok-ch/org-parser][org-parser
+]]EBNF-based org de/serializer in clojure which could turn
+org into a proto-sema UI.
+[[id:42283f20-82f6-4598-8d32-e88da53b2fea][mentci]]
+*** Finds
+- [[https://github.com/nobiot/org-transclusion][org-transclusion]]
+- [[https://github.com/org-rs/org-rs][org-rs]] A fast org parser in rust
+- [[https://github.com/scallywag/org-board][org-board]] org web archiver
+- [[https://github.com/heiher/hev-rinput][hev-rinput]] networked input devices
 
 *** Link Dump
 notmuch emacs UI, non-active:
