@@ -8,23 +8,28 @@
 Example environment in minimal nix ~derivation~.
 Printed using emacs ~process-environment~.
 #+begin_src elisp
-'("PATH=/path-not-set"
-  "TMP=/build"
-  "NIX_BUILD_TOP=/build"
-  "SHLVL=0"
-  "TEMP=/build"
-  "NIX_ATTRS_SH_FILE=/tmp/nix-build-imaksSelectrum.drv-0/.attrs.sh"
-  "TERM=xterm-256color"
-  "NIX_LOG_FD=2"
-  "NIX_ATTRS_JSON_FILE=/tmp/nix-build-imaksSelectrum.drv-0/.attrs.json"
-  "TMPDIR=/build"
-  "NIX_STORE=/nix/store"
-  "HOME=/homeless-shelter"
-  "TEMPDIR=/build"
-  "PWD=/build"
-  "NIX_BUILD_CORES=1")
+  '("PATH=/path-not-set"
+    "TMP=/build"
+    "NIX_BUILD_TOP=/build"
+    "SHLVL=0"
+    "TEMP=/build"
+    "NIX_ATTRS_SH_FILE=/tmp/nix-build-imaksSelectrum.drv-0/.attrs.sh"
+    "TERM=xterm-256color"
+    "NIX_LOG_FD=2"
+    "NIX_ATTRS_JSON_FILE=/tmp/nix-build-imaksSelectrum.drv-0/.attrs.json"
+    "TMPDIR=/build"
+    "NIX_STORE=/nix/store"
+    "HOME=/homeless-shelter"
+    "TEMPDIR=/build"
+    "PWD=/build"
+    "NIX_BUILD_CORES=1")
 #+end_src
 
-** Pull-requests
-[[https://github.com/NixOS/nix/pull/5497][Nixifying git submodules]]
-[[https://github.com/FlorianFranzen/home-manager/commit/4e97b01b2737bb0f39c18a65d87dd98659391b97][Home-manager commit to support nix3]]
+** Pull-requests:
+- [[https://github.com/NixOS/nix/pull/5497][Nixifying git submodules]]
+- [[https://github.com/FlorianFranzen/home-manager/commit/4e97b01b2737bb0f39c18a65d87dd98659391b97][Home-manager commit to support nix3]]
+
+** crate2nix
+#+begin_src md
+warning: crate2nix: Passing `buildRustCrate` as argument to Cargo.nix is deprecated. If you don't customize `buildRustCrate`, replace `callPackage ./Cargo.nix {}` by `import ./Cargo.nix { inherit pkgs; }`, and if you need to customize `buildRustCrate`, use `buildRustCrateForPkgs` instead.
+#+end_src

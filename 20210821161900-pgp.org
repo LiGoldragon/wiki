@@ -3,8 +3,8 @@
 :END:
 #+title: pgp
 
-* Raw text
-Source: http://sysmic.org/dotclear/index.php?post/2010/03/24/Convert-keys-betweens-GnuPG%2C-OpenSsh-and-OpenSSL
+[[http://sysmic.org/dotclear/index.php?post/2010/03/24/Convert-keys-betweens-GnuPG%2C-OpenSsh-and-OpenSSL][Convert keys betweens GnuPG OpenSsh and OpenSSL]]:
+#+begin_src 
 OpenSSH to OpenSSL
 
 OpenSSH private keys are directly understable by OpenSSL. You can test for example:
@@ -212,4 +212,5 @@ ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub
  $ openssl rsa -in gpg-secret-key.pem -pubout > gpg-public-key.pem
 
  Not sure how smart it is to do that, but it took me more than a day to figure that out.
+#+end_src
 
