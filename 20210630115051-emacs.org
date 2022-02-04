@@ -18,19 +18,20 @@ Below is a simple example that can be used in shell mode buffers, to index envir
 [[https://stackoverflow.com/questions/22398737/can-i-use-imenu-mode-in-buffers-which-do-not-contain-function-definitions][SO-src]]
 
 ** Org
-Faster implementation: https://github.com/yantar92/org
-Krita edit: https://github.com/lepisma/org-krita
-Programmatic org-parser editing: https://github.com/ndwarshuis/org-ml
-Org to SQL: https://github.com/ndwarshuis/org-sql
-Visualize data as org (python): https://github.com/karlicoss/orger
-https://github.com/nobiot/org-marginalia
-https://github.com/bastibe/org-journal
-https://github.com/vascoferreira25/org-mode-incremental-reading
-https://github.com/snosov1/toc-org
-*** [[https://github.com/200ok-ch/org-parser][org-parser
-]]EBNF-based org de/serializer in clojure which could turn
+- Faster implementation: https://github.com/yantar92/org
+- Krita edit: https://github.com/lepisma/org-krita
+- Programmatic org-parser editing: https://github.com/ndwarshuis/org-ml
+- Org to SQL: https://github.com/ndwarshuis/org-sql
+- Visualize data as org (python): https://github.com/karlicoss/orger
+- https://github.com/nobiot/org-marginalia
+- https://github.com/bastibe/org-journal
+- https://github.com/vascoferreira25/org-mode-incremental-reading
+- https://github.com/snosov1/toc-org
+  
+*** org-parser
+[[https://github.com/200ok-ch/org-parser][EBNF-based org de/serializer]] in clojure which could turn
 org into a proto-sema UI.
-[[id:42283f20-82f6-4598-8d32-e88da53b2fea][mentci]]
+
 *** Finds
 - [[https://github.com/nobiot/org-transclusion][org-transclusion]]
 - [[https://github.com/org-rs/org-rs][org-rs]] A fast org parser in rust
