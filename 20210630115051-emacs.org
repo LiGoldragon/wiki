@@ -3,13 +3,17 @@
 :END:
 #+title: emacs
 
+* Merge Requests
+** Nixpkgs
+- [[https://github.com/NixOS/nixpkgs/pull/150239][Tree-sitter]]
+
+* Notes
 ** On the utility of elisp
 The elisp ecosystem's greatest utility is in
 translating/upgrading the useful libraries to sajban, even if they
 only yield templates; elisp is, after all, /a lisp/, and is therefore
 easy to read for translation.
 
-* Notes
 ** imenu
 Below is a simple example that can be used in shell mode buffers, to index environment variables assignments.
 #+begin_src elisp
