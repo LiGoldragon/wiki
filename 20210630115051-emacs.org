@@ -43,6 +43,7 @@ org into a proto-sema UI.
 - [[https://github.com/heiher/hev-rinput][hev-rinput]] networked input devices
 - [[https://github.com/xuchunyang/sexp-diff.el][sexp-diff]]
 - [[https://github.com/countvajhula/symex.el][symex.el]] better lisp-editing
+- [[https://github.com/Vidianos-Giannitsis/zetteldesk.el][zetteldesk.el]]
 
 *** Link Dump
 notmuch emacs UI, non-active:
