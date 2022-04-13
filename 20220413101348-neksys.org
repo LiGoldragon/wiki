@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       adc11176-964a-429b-adfb-7b487b23cfbb
+:END:
+#+title: neksys
+
+* Wireguard
+** Mullvad
+To upload a publicKey:
+#+begin_src sh
+  curl https://api.mullvad.net/wg/ \
+       -d account=YOURMULLVADACCOUNTNUMBER \
+       --data-urlencode pubkey=YOURPUBLICWGKEY
+#+end_src
