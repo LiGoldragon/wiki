@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       83a32689-5417-4be0-ab60-f381f8a37786
+:END:
+#+title: android
+
+
+** Reverse Tether
+https://github.com/Genymobile/gnirehtet
