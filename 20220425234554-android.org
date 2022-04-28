@@ -4,5 +4,25 @@
 #+title: android
 
 
+** ADB
+*** System Apps
+#+begin_src shell
+  adb root
+  adb remount
+  adb push apk-filename-here /system/app/
+  adb shell chmod 644 /system/app/apk-filename-here
+  adb reboot
+#+end_src
+
+*** F-Droid extension
+#+begin_src shell
+  adb root
+  adb remount
+  adb push F-DroidPrivilegedExtension.apk /system/priv-app/
+  adb push permissions_org.fdroid.fdroid.privileged.xml /system/etc/permissions/
+  adb push F-Droid.apk /system/app/
+  adb push 80-fdroid.sh /system/addon.d/
+#+end_src
+
 ** Reverse Tether
 https://github.com/Genymobile/gnirehtet
