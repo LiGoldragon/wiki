@@ -18,3 +18,7 @@ https://sr.ht/~kennylevinsen/wldash/
 
 * DNS
 Currently using unbound as web2 resolver.
+
+* OBS
+https://github.com/svend/nixos-config/blob/main/obs-studio.nix
+https://nixos.wiki/wiki/OBS_Studio
