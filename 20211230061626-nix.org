@@ -3,6 +3,18 @@
 :END:
 #+title: nix
 
+* Flakes
+Pin inputs. [[https://github.com/NixOS/nix/issues/4250#issuecomment-1146878407][github source comment]]
+#+begin_src bash
+  gc_root_prefix="/nix/var/nix/gcroots/per-user/$USER/$(systemd-escape -p "$PWD")-flake-"
+  nix flake update "$@"
+  echo "Adding per-user gcroots..."
+  rm -f "$gc_root_prefix"*
+  nix flake archive --json 2>/dev/null | jq -r '.inputs | to_entries[] | "ln -fsT "+.value.path+" \"'"$gc_root_prefix"'"+.key+"\""' | while read -r line; do
+      eval "$line"
+  done
+#+end_src
+
 * Notes
 ** derivation
 Example environment in minimal nix ~derivation~.

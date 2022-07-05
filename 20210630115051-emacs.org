@@ -31,6 +31,7 @@ Below is a simple example that can be used in shell mode buffers, to index envir
 - https://github.com/bastibe/org-journal
 - https://github.com/vascoferreira25/org-mode-incremental-reading
 - https://github.com/snosov1/toc-org
+- https://github.com/alphapapa/org-ql
   
 *** org-parser
 [[https://github.com/200ok-ch/org-parser][EBNF-based org de/serializer]] in clojure which could turn
