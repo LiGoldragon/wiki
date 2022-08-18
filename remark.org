@@ -30,3 +30,25 @@ json5>   File "/nix/store/mmxcsnnyhlg0ndav223z6xrzljhq0wf9-link-bin-outputs.py",
 json5>     return bins.items()
 json5> AttributeError: 'unicode' object has no attribute 'items'
 #+end_src
+
+* default
+:PROPERTIES:
+:org-remark-file: ~/git/uniks/nix/mkHom/default.nix
+:END:
+
+
+
+* default
+:PROPERTIES:
+:org-remark-file: ~/git/uniks/nix/mkUyrld/default.nix
+:END:
+
+** sobUyrldz
+:PROPERTIES:
+:org-remark-beg: 2297
+:org-remark-end: 2306
+:org-remark-id: 34bbcd5f
+:org-remark-label: nil
+:org-remark-link: [[file:~/git/uniks/nix/mkUyrld/default.nix::75]]
+:END:
+Not in use

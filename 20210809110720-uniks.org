@@ -1,7 +1,11 @@
 :PROPERTIES:
 :ID:       3e902748-02a5-4433-844b-427cfef6d79c
 :END:
-#+title: uniks
+#+title: KriomOS
+
+* Bugs
+** Geoclue
+Fix on nixpkgs master: https://github.com/NixOS/nixpkgs/pull/186369
 
 * Systemd
 ** Credentials
@@ -22,3 +26,12 @@ Currently using unbound as web2 resolver.
 * OBS
 https://github.com/svend/nixos-config/blob/main/obs-studio.nix
 https://nixos.wiki/wiki/OBS_Studio
+https://trac.ffmpeg.org/wiki/Hardware/QuickSync
+** Real-time video enhancement
+https://github.com/Crowsinc/LiveVisionKit
+** Stream servers
+https://github.com/aler9/rtsp-simple-server
+** Emacs websocket control
+https://github.com/sachac/obs-websocket-el
+** Better scene switching
+https://github.com/WarmUpTill/SceneSwitcher

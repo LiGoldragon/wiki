@@ -57,3 +57,13 @@ To remove all links to the nix store
 #+begin_src md
 warning: crate2nix: Passing `buildRustCrate` as argument to Cargo.nix is deprecated. If you don't customize `buildRustCrate`, replace `callPackage ./Cargo.nix {}` by `import ./Cargo.nix { inherit pkgs; }`, and if you need to customize `buildRustCrate`, use `buildRustCrateForPkgs` instead.
 #+end_src
+
+** Installing from KriomOS derivation
+#+begin_src sh
+  nix copy --to ${targetIP} ${KriomsOS}  
+  nix copy --to ${mountPoint} ${KriomsOS}
+  nix-env --store ${mountPoint} -p /mnt/nix/var/nix/profiles/system --set ${KriomOS}
+  mkdir -m 0755 -p ${mountPoint}/etc
+  touch $mountPoint/etc/NIXOS
+  NIXOS_INSTALL_BOOTLOADER=1 nixos-enter --root $mountPoint -- /run/current-system/bin/switch-to-configuration boot
+#+end_src
