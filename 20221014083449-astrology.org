@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       fe4a38b5-3054-4474-8ac5-e64a442320de
+:END:
+#+title: astrology
+
+* Moon
+** Combust hours
+#+begin_quote
+"Some of the ancient sages, from whom I do not wish to deviate, said
+that after the conjunction of the Sun and Moon, from the very minute
+of their conjunction, there are 12 hours which are called “combust”;
+and after those 12 combust hours are 72 hours which are called
+“incombust”; and after those 72 incombust ones are 12 combust ones;
+and so on up to the degree and minute of the next conjunction that
+follows. And they said that the 12 combust hours are divided into
+three equal parts, by giving to each part four of these hours. And
+they said that he who prepares to make war in the first four hours, or
+goes to war, ought to fear the death of his body. And he who prepares
+in the second four hours to make war, or goes to war, should fear for
+his capture, or being wounded, or some blow, [but] without losing his
+life. And he who undertakes in the last four hours to make war,or goes
+to war, should fear the loss of his substance and of those who were
+with him; and he could even lose the persons who help him. And he who
+undertakes to plow in the first four hours, or goes to plow, should
+fear the loss of the fruits of his hope from that plowing. And he who
+undertakes to plow in the second four hours, or who goes to plow,
+should fear great detriment in all things that he possesses, and even
+in his body, [but] without losing his life. And he who undertakes to
+plow in the last four"
+~ Bonatti, On Mundane Astrology
+#+end_quote
