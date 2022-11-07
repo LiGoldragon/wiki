@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bbf7680a-e670-4a6b-b85d-9d120a3ca64e
+:END:
+#+title: thinkpad
+
+* Hardware
+## E15 Gen2 Intel
+The laptop apparently supports a NVIDIA GeForce MX450, which looks interesting for heavier video editing.
