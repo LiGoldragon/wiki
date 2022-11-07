@@ -60,6 +60,7 @@ warning: crate2nix: Passing `buildRustCrate` as argument to Cargo.nix is depreca
 
 ** Installing from KriomOS derivation
 #+begin_src sh
+  mkdir -p ${mountPoint}/nix/var/nix/profiles/per-user/root
   nix copy --to ${targetIP} ${KriomsOS}  
   nix copy --to ${mountPoint} ${KriomsOS}
   nix-env --store ${mountPoint} -p /mnt/nix/var/nix/profiles/system --set ${KriomOS}
