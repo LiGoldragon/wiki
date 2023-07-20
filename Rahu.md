@@ -19,3 +19,5 @@ re-engraved, reshaped or reinforced at this time.  Watch your weig ht
 and diet under this critical aspect as physical expansion is very
 easy now.
 
+#### Moon
+This aspect provides great internal emotional satisfaction for these people.  If not, at least they will provide such satisfaction for others.  Basically, this aspect represents better emotional distribution within or without the individual.  Support from mother or 'mother-figure' is of utmost significance for them in this life.  The idea of take something from "mother" and be a "mother-figure" to someone is highly under focus. These people go through ultra high and low emotional stages in this category. As a result, it is best not to provoke them emotionally at the wrong time.  Vivid imagination and stronger sensitivity towards some of the past-life experiences and their illumination is noticed in this aspect. They may go through typical or unusual emotional experiences which could be a part of their recent life externalization with a great similarity to reality. 
