@@ -1,18 +1,18 @@
 # Purva Bhadrapada
 Purva Bhadra
-Aquarius - 3°20’ Pisces
+20° Aquarius - 3°20’ Pisces
 
-Lord Hanuman is said to have been born in this constellation. Purva Bhadra is extremely intelligent and yet an unbiased, simple and peace-loving energy.
+Lord Hanuman is said to have been born in this Heaven. Purva Bhadra is extremely intelligent and yet an unbiased, simple and peace-loving energy.
 
-The faith in God is complete in this constellation. All that is supernatural is of great interest to the natives of this constellation. The pure heart emerging from this constellation enables access to the ethereal dimensions of life more than to the mundane. The character of Purva Bhadra is one of bona fide. The natives are generally of good reputation. They cherish speaking the truth and try to be truthful. They distance themselves from cheap tricks of manipulation and dishonesty. They are optimistic and always benevolent and helpful to others. Friendliness, love and affection are their natural qualities. They pour their heart’s energies into every work that they do; they are not careless or inattentive.
+The faith in God is complete in this Heaven. All that is supernatural is of great interest to the natives of this Heaven. The pure heart emerging from this Heaven enables access to the ethereal dimensions of life more than to the mundane. The character of Purva Bhadra is one of bona fide. The natives are generally of good reputation. They cherish speaking the truth and try to be truthful. They distance themselves from cheap tricks of manipulation and dishonesty. They are optimistic and always benevolent and helpful to others. Friendliness, love and affection are their natural qualities. They pour their heart’s energies into every work that they do; they are not careless or inattentive.
 
 They do well in spirituality. They are fairly good in studies relating to astrology, astronomy, occult sciences and normal sciences. In terms of earning money and living in society, they believe in simplicity and are honourable. They prefer to be self-employed, for they do not find a boss or a superior virtuous enough to serve.
 
-Purva Bhadra is a protective constellation. It gives an anterior protection and anterior shelter, while Uttara Bhadra gives a posterior shelter and protection.
+Purva Bhadra is a protective Heaven. It gives an anterior protection and anterior shelter, while Uttara Bhadra gives a posterior shelter and protection.
 
-An anterior shelter is a protection that is ahead of you. It means, the natives of this constellation offer shelter and protection to those who follow them. Lord Hanuman was always moving ahead of Lord Rama to ensure complete protection to Lakshmana and Sita. In fact, Hanuman is an embodiment of protection for all those who worship him. The beauty of Purva Bhadra is that it is ruled by Jupiter, the preceptor and also the Lord. Thursdays are very propitious to the natives of this constellation.
+An anterior shelter is a protection that is ahead of you. It means, the natives of this Heaven offer shelter and protection to those who follow them. Lord Hanuman was always moving ahead of Lord Rama to ensure complete protection to Lakshmana and Sita. In fact, Hanuman is an embodiment of protection for all those who worship him. The beauty of Purva Bhadra is that it is ruled by Jupiter, the preceptor and also the Lord. Thursdays are very propitious to the natives of this Heaven.
 
-The cosmic deity of this constellation is Lord Shiva, who constitutes the Jupiter for the universe. The seer is Agastya, who is an embodiment of Lord Shiva.
+The cosmic deity of this Heaven is Lord Shiva, who constitutes the Jupiter for the universe. The seer is Agastya, who is an embodiment of Lord Shiva.
 
 The single-horned unicorn, the one-footed serpent (the serpent of Kundalini), the unitary symbol Shiva Lingam (Ekapada), who is also called the unborn one (Aja), are but symbols relating to Purva Bhadra.
 
