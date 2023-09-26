@@ -2,7 +2,6 @@
 :ID:       653e684d-0cd9-4aa2-a72f-f914d887153a
 :END:
 #+title: nix
-
 * Flakes
 ** TODO
 Use ~nixConfig~ attribute.
