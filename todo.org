@@ -1,9 +1,0 @@
-# -*- org-todo-keyword-faces: (("BLOCKED" . "red") ("STARTED" . (:foreground "orange" :underline t)) ("DONE" . "darkgreen")); -*-
-#+TODO: BLOCKED STARTED DONE
-#+STARTUP: overview
-#+title: Todo
-
-* Today
-
-* This Week
-* Later
