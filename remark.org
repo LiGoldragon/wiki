@@ -52,3 +52,17 @@ json5> AttributeError: 'unicode' object has no attribute 'items'
 :org-remark-link: [[file:~/git/uniks/nix/mkUyrld/default.nix::75]]
 :END:
 Not in use
+
+* default
+:PROPERTIES:
+:org-remark-file: ~/git/kriomOS/nix/mkKriomOS/edj/default.nix
+:END:
+
+** nssmdns = false;
+:PROPERTIES:
+:org-remark-beg: 1299
+:org-remark-end: 1315
+:org-remark-id: c907bf4a
+:org-remark-label: nil
+:org-remark-link: [[file:~/git/kriomOS/nix/mkKriomOS/edj/default.nix::61]]
+:END:
