@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       285ea198-e582-4c11-b087-f33d53aeb845
-:END:
-#+title: hob
-
-* Research
-** Github
-- [[https://github.com/arbox/org-sync][org-sync]]: Github/etc issues <-> org

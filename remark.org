@@ -66,3 +66,4 @@ Not in use
 :org-remark-label: nil
 :org-remark-link: [[file:~/git/kriomOS/nix/mkKriomOS/edj/default.nix::61]]
 :END:
+Possibly, nssmdns would fix NDI and/or Solar Fire (wine exec) printing

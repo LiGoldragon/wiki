@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       54ebb522-9c74-49fe-8f98-453f0a9c3717
-:END:
-#+title: gemini
-
-* Servers
-** Common lisp
-https://github.com/jfmcbrayer/germinal
