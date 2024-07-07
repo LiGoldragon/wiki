@@ -17,7 +17,7 @@ To place the Librem 5 info flashing mode, perform the following:
 ** Jumpdrive
 
 #+begin_src shell
-  nix shell kriomOS#pkdjz.jumpdrive.purism-librem5
+  nix shell CriomOS#pkdjz.jumpdrive.purism-librem5
   jumpdrive-purism-librem5
   lsblk -o name,size,model,vendor | rg JumpDriv
   ssh root@localhost -- chown ${user} /dev/${jumpdriveDevice}
