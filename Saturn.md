@@ -1,8 +1,13 @@
 ---
 created: 2024-09-16T19:54:33+02:00
-modified: 2024-09-16T19:54:49+02:00
+modified: 2024-09-16T19:58:07+02:00
 ---
 
 # Saturn
 
-Plants of Saturn
+# Plants
+- Comfrey
+- Horsetail
+- Mullein
+- Cannabis
+Bindweed, Bistort, Bluebell, Enchanter’s Nightshade, Foxglove, Hellebore, Holly, Indigo, Juniper, Mandrake, Monkshood, Pine, Rue, Solomon’s Seal, Witch Hazel, Wolfsbane, Yew,
