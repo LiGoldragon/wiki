@@ -1,10 +1,11 @@
+# Carlos Castaneda
 :PROPERTIES:
 :ID:       75fa29e7-7c2b-459d-9dfa-0626df4f5d00
 :END:
 #+title: Castaneda
 
-# The teachings of Don Juan
-## Quotes
+## The teachings of Don Juan
+### Quotes
 
 A man goes to knowledge as he goes to war; wideawake, with fear, with respect, and with absolute assurance. Going to knowledge or going to war in any other manner is a mistake, and whoever makes it will live to regret his steps.
 
@@ -14,7 +15,7 @@ Think about the wonder of Mescalito playing with you. Think about nothing else. 
 
 "An ally is a power capable of carrying a man beyond the boundaries of himself. This is how an ally can reveal matters no human being could."
 
-# Unsorted
+## Unsorted
 
 They say that they were very likable but extremely scary. They were more like unknown creatures. What makes mankind homogeneous is the fact that we are all luminous balls. And those sorcerers were no longer balls of energy but lines of energy that were trying to bend themselves into circles, which they couldn't quite make."
 
