@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       4076f54b-2c29-459f-bb46-2f0cc6afda03
-:END:
-#+title: surveillance
-
-** Links
-https://github.com/SharpAI/DeepCamera
-https://zoneminder.com/

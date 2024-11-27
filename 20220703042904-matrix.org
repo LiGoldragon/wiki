@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       606f7f37-090c-4e69-a7a8-1473870d8726
-:END:
-#+title: matrix
-
-Element Spaces blocking issues:
-https://github.com/vector-im/element-web/issues/17472
