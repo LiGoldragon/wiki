@@ -1,4 +1,8 @@
- ## Gospels
+---
+title: plasma
+---
+
+## Gospels
 your springs overflow in the streets, your streams of water in the public squares?
 Let them be yours alone, never to be shared with strangers.
 May your fountain be blessed, and may you rejoice in the wife of your youth.

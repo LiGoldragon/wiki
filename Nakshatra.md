@@ -1,3 +1,7 @@
+---
+title: Nakshatra
+---
+
 # Purva Bhadrapada
 Purva Bhadra
 20° Aquarius - 3°20’ Pisces
