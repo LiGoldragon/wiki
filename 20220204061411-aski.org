@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c93c6225-bfef-4fa9-b780-7194bd7a3990
+:END:
+#+title: aski
+
+** Bootstrap
+Extremely hacky rebuild one-liner, run from ~ShenExtended~ with bunch of assumptions.
+#+begin_src sh
+    ~/aski/bootstrap/bin/aski ../ShenExtendedBootstrap/makeKLambda.shen && \
+	mv ./*kl ../KLambdaBootstrap/ && \
+	nix flake update ~/git/aski && \
+	nix build --override-input "hob/aski" "git+file:///home/li/git/aski" --update-input "hob/aski" ~/git/uniks#aski.bootstrap --out-link ~/aski/bootstrap --offline --print-build-logs --recreate-lock-file
+#+end_src
