@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       883362e2-3718-4ac1-ae2a-f4c122c685b1
-:END:
-#+title: GoPro
-
-Links:
-https://abarry.org/how-to-use-a-gopro-hero-8s-firmware-webcam-mode-in-linux/
